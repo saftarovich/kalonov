@@ -1,0 +1,52 @@
+body{
+    background-color: aliceblue;
+}
+.gamburger{
+    width: 755px;
+    margin: 5px auto; 
+}
+.noni-bolo{
+    margin: 0px 150px auto;
+}
+.none{
+    display: inline-block;
+    border:  3px solid;
+    width: 708px;
+    border-bottom-color:blue;
+    margin: 0px auto;
+}
+li{
+    text-align:left;
+    display: inline-block;
+    border-right: 1px solid; 
+    padding: 5px 10px;     
+}
+.li8{
+    border-right: none;
+}
+a:hover{
+    color: rgb(137, 9, 9);
+    text-decoration: none;
+    
+}
+.d1{
+    margin:0px 300px auto;
+}
+.pomidor-left{
+    background-color: rgba(255, 255, 255, 0.992);
+    display: inline-block;
+    width: 370px;
+    margin: 10px 0px;
+}
+.mahsulot{
+    margin: 10px 0px;
+}
+p{
+    margin: 0px 30px;
+}
+h1{
+    margin: 0px 20px;
+}
+br{
+    margin: 0px 30px;
+}
